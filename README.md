@@ -50,4 +50,4 @@ That example will produce something like,  Season 2/10 - Name here.mp4
 
 # Screenshots
 
-[screenie](screenshots/1.png)
+![screenie](screenshots/1.png?raw=true)
