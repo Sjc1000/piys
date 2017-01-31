@@ -47,3 +47,7 @@ That example will produce something like,  Season 2/10 - Name here.mp4
 
 **Note** - If the format has / in it, it will be treated as a folder.
 
+
+# Screenshots
+
+[screenie](screenshots/1.png)
